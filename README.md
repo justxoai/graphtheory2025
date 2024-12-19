@@ -1,13 +1,8 @@
 # USTH Graph Theory 2024-2025
-
-Push your project here.
-
 ===
 
-Student Name: NOT-VIETNAMESE.
+Student Name: Nguyen Hoai Anh.
 
-Student ID: USTH-ID.
+Student ID: 22BI13021.
 
 ===
-
-Good luck!!!
